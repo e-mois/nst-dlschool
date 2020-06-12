@@ -4,13 +4,27 @@
 1. Посредством одновременного применения двух стилей ко всему входному изображению
 2. Посредством одновременного применения двух стилей на две половины входного изображения. На каждую половину свой стиль.
 
-Исходное изображение 
-[Исходное изображение](https://github.com/e-mois/nst-dlschool/raw/master/images/cont_1.jpg)
+## Исходное изображение 
 
-Файлы стилей
-[Стиль 1](https://github.com/e-mois/nst-dlschool/raw/master/images/style_2.jpg)
-[Стиль 2](https://github.com/e-mois/nst-dlschool/raw/master/images/style_4.jpg)
+<img src="images/cont_1.jpg" width="300"/>
 
-Результат
-[Смешение](https://github.com/e-mois/nst-dlschool/raw/master/images/mix.jpg)
-[Разделение](https://github.com/e-mois/nst-dlschool/raw/master/images/split.jpg)
+
+## Файлы стилей
+
+### Стиль 1
+
+<img src="images/style_2.jpg" width="300"/>
+
+### Стиль 2
+
+<img src="images/style_4.jpg" width="300"/>
+
+## Результат
+
+### Cмешивание
+
+<img src="images/mix.jpg" width="300"/>
+
+### Разделение
+
+<img src="images/split.jpg" width="300"/>
